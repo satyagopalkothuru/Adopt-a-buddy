@@ -24,3 +24,7 @@ The data folder consists of 2 CSV files
 * Algorithm used for prediction.
   - [Lightgbm classifier](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html).
 * Making prediction table.
+
+# Leaderboard Place
+
+[![My position in leaderboard](https://github.com/satyagopalkothuru/Adopt-a-buddy/blob/master/2020-08-26.png)](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/page/6/)
